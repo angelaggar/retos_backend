@@ -1,0 +1,16 @@
+{
+  "name": "expressapp",
+  "version": "1.0.0",
+  "description": "primer API Rest Kodemia gen31",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js",
+    "dev": "node app.js"
+  },
+  "author": "Angela Garcia",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
